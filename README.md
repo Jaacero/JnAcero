@@ -1,5 +1,5 @@
-<h1 align="center">🏳️‍🌈 Hi 👋, I'm Juan Andres 🏳️‍🌈</h1>
-<h3 align="center">Estudiante de ingenieria apasionado por la programacion y otras cosas 😏🏳️‍🌈</h3>
+<h1 align="center"> Hi 👋, I'm Juan Andres </h1>
+<h3 align="center">Estudiante de ingenieria apasionado por la programacion </h3>
 
 - 🔭 I’m currently working on **carrito de compras**
 
